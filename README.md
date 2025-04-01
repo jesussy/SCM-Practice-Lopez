@@ -5,3 +5,5 @@ Software configuration management (SCM) is the process of tracking and recording
 ## How does GitHub help with SCM?
 GitHub helps with this by allowing you to create a repository that contains project files, which can then be pulled, edited, pushed, and merged to systematically manage changes to a software project.
 
+## Update Notes
+happymessage.py now includes a midmessage(), try it out yourself!
